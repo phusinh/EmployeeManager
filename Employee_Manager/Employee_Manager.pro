@@ -5,12 +5,10 @@ CONFIG -= qt
 
 SOURCES += \
         main.cpp \
-        nhanvien.cpp \
-        quanlynhanvien.cpp
+        nhanvien.cpp
 
 DISTFILES += \
     Employee_Manager.pro.user
 
 HEADERS += \
-    nhanvien.h \
-    quanlynhanvien.h
+    nhanvien.h
