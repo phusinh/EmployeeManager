@@ -4,11 +4,7 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
-        main.cpp \
-        nhanvien.cpp
-
-DISTFILES += \
-    Employee_Manager.pro.user
+        main.cpp
 
 HEADERS += \
-    nhanvien.h
+    Employee.h
